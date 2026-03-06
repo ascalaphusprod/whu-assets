@@ -6,7 +6,7 @@ This repository contains character artwork, UI elements, campus imagery, and rel
 
 ## Project
 
-Wardbridge Heights University (WHU) is an original fictional setting — a private university in Wardbridge, Massachusetts, with its own characters, history, culture, and lore. The WHU Board is an interactive web experience built around this world.
+Wardbridge Heights University (WHU) is an original fictional setting — an university in the fictional town of Wardbridge, Massachusetts, with its own characters, history, culture, and lore. The WHU Board is an interactive web experience built around this world.
 
 ## Asset Categories
 
